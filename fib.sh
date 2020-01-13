@@ -5,7 +5,7 @@ N=${FIB_N}
 
 echo "Print Fibonacci series for N: ${FIB_N}" 
 
-a=0 
+a=1
   
 # Second Number of the 
 # Fibonacci Series 
